@@ -1,7 +1,7 @@
 {
   "$schema": "https://aka.ms/codetour-schema",
   "title": "Getting Started with Your AlgoKit Project",
-  "steps": [
+  "steps": [ 
     {
       "file": "README.md",
       "description": "Welcome to your brand new AlgoKit template-based project. In this tour, we will guide you through the main features and capabilities included in the template.",
