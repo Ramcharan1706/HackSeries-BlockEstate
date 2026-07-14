@@ -4,7 +4,6 @@ const app = express();
 app.get('/', (req, res) => {
   res.send('✅ Backend is up and running!');
 });
-
 app.get('/digilocker/login', (req, res) => {
   console.log('Login route hit!');
   res.redirect('/digilocker/callback?hash=mocked-auth-hash');
